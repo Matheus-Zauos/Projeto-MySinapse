@@ -1,0 +1,1 @@
+Esse projeto esta sendo criado para treinar os fundamentos de DevOps a medida em que vou aprendendo, a ideia é criar um projeto "amador" e ao longo do tempo agregar qualidade ao mesmo. Estou desenvolvendo o frontend e o backend para ser minimamente funcional e posteriormente testar deploy em cloud.
