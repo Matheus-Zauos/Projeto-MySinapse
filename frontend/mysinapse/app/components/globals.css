@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.scroll-container{
+  display:flex;
+  flex-direction:column;
+  animation: scrollText 12s linear infinite;
+}
+
+@keyframes scrollText {
+
+  0%{
+    transform:translateY(0);
+  }
+
+  100%{
+    transform:translateY(-50%);
+  }
+
+}
